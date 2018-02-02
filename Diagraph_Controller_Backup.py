@@ -90,7 +90,7 @@ def start():
                if result == True:
                    backup(ip, devicename)
                elif result == False:
-                    print('not reachable')
+                    print(ip + ' ' + devicename + ' not reachable')
     except:
        exerror = "Start() Unexpected error:", sys.exc_info()[1]
        print(exerror)
