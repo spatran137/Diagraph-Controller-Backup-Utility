@@ -1,4 +1,21 @@
 #!C:\Program Files\Python36\python.exe
+
+##################################################
+## This is to backup the configuration and files
+## on a Diagraph IJ3000 and IJ4000 case printer
+##################################################
+## GNU Lesser General Public License v3.0
+##################################################
+## Author: Patrick Hinson
+## Copyright: Copyright 2018, Diagraph Backup Utility
+## Credits: [Patrick Hinson]
+## License: GNU Lesser General Public License v3.0
+## Version: 1.0.0
+## Mmaintainer: Patrick Hinson
+## Email: 
+## Status: Stable
+##################################################
+
 import urllib.request
 import shutil
 import time
