@@ -13,7 +13,7 @@ This was not intended to do much other than automate the task of backing up the 
 Here are the packages that will need to be installed/used in this project:
 
 ```
-requests==2.18.4
+requests==2.20.0
 schedule==0.4.3
 ```
 ```
