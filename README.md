@@ -55,4 +55,4 @@ schedule.every().day.at("5:00").do(Diagraph_Controller_Backup.start)
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the GNU Lesser General Public License v3.0 [license](https://github.com/spatran137/Diagraph-Controller-Backup-Utility/blob/master/LICENSE)
