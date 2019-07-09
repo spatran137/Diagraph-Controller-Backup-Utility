@@ -1,4 +1,4 @@
-https://travis-ci.org/spatran137/Diagraph-Controller-Backup-Utility.svg?branch=master
+[![Build Status](https://travis-ci.org/spatran137/Diagraph-Controller-Backup-Utility.svg?branch=master)](https://travis-ci.org/spatran137/Diagraph-Controller-Backup-Utility)
 
 # Diagraph-Controller-Backup
 Backup utility to backup the controller’s configuration.  It does this via backup.cgi through the web interface.  This was written to backup twice a day.
